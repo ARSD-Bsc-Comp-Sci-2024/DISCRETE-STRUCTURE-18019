@@ -36,7 +36,7 @@ class bub_sort{
                         arr[j]=arr[j-1];
                         arr[j-1]=temp;
                     }
-                    cout<<"Array after "<<iter<<"th iteration is : \n"<<endl;
+                    cout<<"Array after "<<iter<<"th hello is : \n"<<endl;
                     for (int i = 0; i < length; i++)
                     {
                         cout<<arr[i]<<" ";
